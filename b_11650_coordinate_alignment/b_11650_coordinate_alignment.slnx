@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="b_11650_coordinate_alignment/b_11650_coordinate_alignment.vcxproj" />
-</Solution>
