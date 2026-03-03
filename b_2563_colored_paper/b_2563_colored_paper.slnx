@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="b_2563_colored_paper/b_2563_colored_paper.vcxproj" />
+</Solution>
